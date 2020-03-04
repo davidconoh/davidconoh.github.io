@@ -3,6 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://davidconoh.github.io/</loc>
+    <lastmod>2020-03-03T00:10:10+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidconoh.github.io/post/</loc>
+    <lastmod>2020-03-03T00:10:10+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidconoh.github.io/post/ultracogence/</loc>
+    <lastmod>2020-03-03T00:10:10+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://davidconoh.github.io/techs/arduino/</loc>
     <lastmod>2020-01-01T00:11:09+03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -31,13 +52,6 @@
   </url>
   
   <url>
-    <loc>https://davidconoh.github.io/</loc>
-    <lastmod>2020-01-01T00:11:09+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://davidconoh.github.io/portfolio/</loc>
     <lastmod>2020-01-01T00:11:09+03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -54,20 +68,6 @@
   <url>
     <loc>https://davidconoh.github.io/techs/</loc>
     <lastmod>2020-01-01T00:11:09+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidconoh.github.io/post/getting-started/</loc>
-    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidconoh.github.io/post/</loc>
-    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
