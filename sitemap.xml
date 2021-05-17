@@ -45,13 +45,6 @@
   </url>
   
   <url>
-    <loc>https://davidconoh.github.io/portfolio/freecityhacks/</loc>
-    <lastmod>2020-01-01T00:11:09+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://davidconoh.github.io/portfolio/</loc>
     <lastmod>2020-01-01T00:11:09+03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -73,7 +66,8 @@
   </url>
   
   <url>
-    <loc>https://davidconoh.github.io/about/</loc>
+    <loc>https://davidconoh.github.io/portfolio/yonderhacks/</loc>
+    <lastmod>2020-01-01T00:11:09+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
