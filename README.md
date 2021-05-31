@@ -1,3 +1,3 @@
-# David C.
+# Dave XN
 
-## The Creative Explorer.
+## Technologist & Digital Explorer.
